@@ -1,0 +1,7 @@
+<map id="course.h" name="course.h">
+<area shape="rect" id="node2" href="$college_8h.html" title="This is the header file for the object college. " alt="" coords="29,155,103,181"/>
+<area shape="rect" id="node4" href="$collegemain_8cc.html" title="This is the main driver for this project. " alt="" coords="111,229,221,256"/>
+<area shape="rect" id="node5" href="$node_8h.html" title="This is a node class to use with linked lists. " alt="" coords="101,80,162,107"/>
+<area shape="rect" id="node6" href="$course_8cc.html" title="This is the object to describe courses. " alt="" coords="237,80,316,107"/>
+<area shape="rect" id="node3" href="$college_8cc.html" title="This is a linked list to store college data. " alt="" coords="5,229,87,256"/>
+</map>
