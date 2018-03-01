@@ -1,3 +1,9 @@
+/**
+	@file college.h
+	@author Matthew Aberegg
+	@brief This is the header file for the object college
+*/
+
 //********************
 //Matthew Aberegg
 //Project 3
