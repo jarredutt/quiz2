@@ -7,7 +7,11 @@
 		Lab 7		Fall 2014
 	John Dolan			Ohio University 
 ********************************************************************/
-
+/**
+	@file tarray.h
+	@author John Dolan
+	@brief This file is used in understanding template arrays
+*/
 #include<iostream>
 
 template<class T>
