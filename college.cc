@@ -1,3 +1,8 @@
+/**
+	@file college.cc
+	@brief This is a linked list to store college data
+	@author Matthew Aberegg
+*/
 //********************
 //Matthew Aberegg
 //Project 3
@@ -10,12 +15,20 @@
 #include<iomanip>
 #include<string>
 using namespace std;
-
+/**
+	@Brief the constructor
+	@param a std string s
+	@return none
+*/
 College::College(std::string s){
 	name = s;
 	head = NULL;
 }
-
+/**
+	@breif The deconstructor
+	@param none
+	@return none
+*/
 
 College::~College(){
 	node * rmptr;
@@ -25,7 +38,11 @@ College::~College(){
 		delete rmptr;
 	}
 }
-
+/**
+	@brief The deconstructor
+	@param A const College object
+	@return none
+*/
 College::College(const College& other){
 	if(other.head == NULL){
 		head = NULL;
