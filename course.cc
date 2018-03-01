@@ -3,6 +3,12 @@
 	course.
 		John Dolan		School of EECS		Summer2013
 **************************************************************************/
+
+/**
+	@file course.cc
+	@author John Dolan
+	@brief This is the object to describe courses
+*/
 #include "course.h"
 #include<cstdlib>
 #include<iostream>
