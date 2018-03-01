@@ -4,7 +4,11 @@
       can be used in the construction of linked lists.
                 John Dolan  		March 2009
 *************************************************************************/
-
+/**
+	@file node.h
+	@author John Dolan
+	@brief This is a node class to use with linked lists
+*/
 #ifndef NODE_H
 #define NODE_H
 #include "course.h"
