@@ -11,7 +11,11 @@
     and the .cc file for the container.
 	John Dolan			Spring 2015
 **********************************************************/
-
+/**
+	@file collegemain.cc
+	@author John Dolan
+	@brief This is the main driver for this project
+*/
 #include <iostream>
 #include <fstream>
 #include <string>
