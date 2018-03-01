@@ -7,6 +7,11 @@
 		John Dolan	School of EECS		Summer 2013
 ************************************************************************/
 
+/**
+	@file course.h
+	@author John Dolan
+	@brief This is the header file for the course object
+*/
 #include<iostream>
 #include<string>
 #ifndef COURSE_H
